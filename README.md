@@ -3,6 +3,7 @@
 
 * Rails 7.0.5
 * RSpec will be used for testing purposes
+* Faker has been used to populate the DB
 
 * Task
 
