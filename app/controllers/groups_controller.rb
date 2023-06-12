@@ -8,6 +8,7 @@ class GroupsController < ApplicationController
 
   def show
     render json: @group, status: :ok
+    render json: @group.groups
   end
 
   def create
